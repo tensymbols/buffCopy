@@ -10,5 +10,4 @@ UTF-8 data duplicator. Stdin/stdout and file
 * `-conv` - Conversions:
    - `upper_case` - convert to uppercase
    - `lower_case` - convert to lowercase
-     если указаны и `lower_case`, и `upper_case` - возвращаем ошибку;
    - `trim_spaces` - trim space symbols 
