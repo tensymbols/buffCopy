@@ -1,4 +1,4 @@
-# buffCopy
+# Buffer copy
 UTF-8 data duplicator. Stdin/stdout and files
 ### Parameters
 * All parameters are optional 
